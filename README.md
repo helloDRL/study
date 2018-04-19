@@ -22,12 +22,15 @@ https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
 
 *교재*
 
-파이썬과 케라스로 배우는 강화학습
+파이썬과 케라스로 배우는 강화학습 (이웅원)
 책: http://wikibook.co.kr/reinforcement-learning/
 소스: https://github.com/rlcode/reinforcement-learning-kr
 
 
-Richard S. Sutton 교수님
+강화학습 바이블 (Richard S. Sutton 교수님)
+> online draft 
+http://incompleteideas.net/book/the-book-2nd.html
+
 http://incompleteideas.net/
 
 
