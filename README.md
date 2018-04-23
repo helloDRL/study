@@ -20,6 +20,10 @@ https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
     https://www.youtube.com/watch?v=gINks-YCTBs&t=240s
 
 
+참고용
+https://tykimos.github.io/warehouse/2018-2-7-ISS_Near_and_Far_DeepRL_4.pdf
+
+
 *교재*
 
 파이썬과 케라스로 배우는 강화학습 (이웅원)
