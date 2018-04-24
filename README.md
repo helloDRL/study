@@ -29,6 +29,7 @@ https://tykimos.github.io/warehouse/2018-2-7-ISS_Near_and_Far_DeepRL_4.pdf
 파이썬과 케라스로 배우는 강화학습 (이웅원)
 책: http://wikibook.co.kr/reinforcement-learning/
 소스: https://github.com/rlcode/reinforcement-learning-kr
+gitbook: https://legacy.gitbook.com/book/dnddnjs/rl/details
 
 
 강화학습 바이블 (Richard S. Sutton 교수님)
@@ -43,12 +44,15 @@ http://incompleteideas.net/
 
 Open AI Gym : https://gym.openai.com/
 
+https://cs.stanford.edu/people/karpathy/reinforcejs/index.html
+
 Keras https://keras.io/
 
 Java https://deeplearning4j.org/kr/compare-dl4j-torch7-pylearn
 
 Java  http://burlap.cs.brown.edu/
 
+ConvNetJS: https://cs.stanford.edu/people/karpathy/convnetjs/index.html
 
 
 
