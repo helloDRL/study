@@ -8,6 +8,8 @@ http://hunkim.github.io/ml/
 2. Silver 교수님(deepmind)
 https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
 
+강의자료 : http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
 
 3. 세미나 자료
    
