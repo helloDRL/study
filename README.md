@@ -60,4 +60,12 @@ Java  http://burlap.cs.brown.edu/
 ConvNetJS: https://cs.stanford.edu/people/karpathy/convnetjs/index.html
 
 
+* 참고사이트
+
+딥마인드 : https://deepmind.com/
+
+https://deepmind.com/blog/deepmind-papers-iclr-2018/
+
+https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
+
 
